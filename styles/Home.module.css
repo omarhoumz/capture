@@ -1,4 +1,5 @@
 .main {
   padding: 5rem 2rem;
   display: flex;
+  align-items: flex-start;
 }
